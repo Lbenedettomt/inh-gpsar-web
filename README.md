@@ -1,6 +1,6 @@
 <h1 align="center">INH-GPSAR-Web</h1>
 <p align="center">
-    <img src="img/logo.png" alt="logo" width="400">
+    <img src="images/logo.png" alt="logo" width="400">
 </p>
 
 ### Tópicos
