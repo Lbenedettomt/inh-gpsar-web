@@ -1,16 +1,17 @@
 <h1 align="center">INH-GPSAR-Web</h1>
 <p align="center">
-    <img src="images/logo.png" alt="logo" width="400">
+    <img src="images/logo.png" alt="logo" width="400"><br>
+    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=brightgreenn&style=for-the-badge" alt="Status">
 </p>
 
-### Tópicos
-:small_blue_diamond: [Sprint](#sprint-bookmark_tabs)  
-:small_blue_diamond: [Sobre](#sobre-book)  
-:small_blue_diamond: [Progresso](#progresso-arrow_up)  
-:small_blue_diamond: [Integrantes 3ECA INH](#integrantes-3eca-inh-handshake)  
+### Tópicos :large_blue_diamond:
+**:small_blue_diamond: [Sprint :bookmark_tabs:](#sprint-bookmark_tabs)**  
+**:small_blue_diamond: [Sobre :book:](#sobre-book)**  
+**:small_blue_diamond: [Progresso :arrow_up:](#progresso-arrow_up)**  
+**:small_blue_diamond: [Integrantes 3ECA INH :handshake:](#integrantes-3eca-inh-handshake)**
 
 ## Sprint :bookmark_tabs:
-Entregável da Sprint 3 de `Advanced Programming & Mobile Dev`, professor:
+Entregável da Sprint 3 de *Advanced Programming & Mobile Dev*, professor:
 
 | [<img src="https://avatars.githubusercontent.com/u/5585727" width=115><br><sub>João Carlos Lima</sub>](https://github.com/joaocarloslima) | 
 | :---: 
@@ -35,7 +36,6 @@ Entregável da Sprint 3 de `Advanced Programming & Mobile Dev`, professor:
     <a href="https://code.visualstudio.com" target="_blank">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
     </a>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=brightgreenn&style=for-the-badge" alt="Status">
 </p>
 
 ## Progresso :arrow_up:
