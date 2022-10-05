@@ -1,7 +1,7 @@
 <h1 align="center">INH-GPSAR-Web</h1>
 <p align="center">
     <img src="images/logo.png" alt="logo" width="400"><br>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=brightgreenn&style=for-the-badge" alt="Status">
+    <img src="http://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
 ### Tópicos :large_blue_diamond:
