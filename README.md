@@ -18,7 +18,7 @@ Entregável da Sprint 3 de *Advanced Programming & Mobile Dev*, professor:
 
 ## Sobre :book:
 <p align="justify">
-    A atividade consiste em criar uma plataforma web com uma breve descrição do projeto GPSAR do grupo INH, um App que utiliza o serviço de GPS do smartphone com implementação de recursos de realidae aumentada (AR). Implementamos o framework Bootstrap para adicionar novos métodos e layouts pré-definidos.
+    A atividade consiste em criar uma <strong><a href="https://leolcm.github.io/inh-gpsar-web/" target="_blank">plataforma web</a></strong> com uma breve descrição do projeto GPSAR do grupo INH, um App que utiliza o serviço de GPS do smartphone com implementação de recursos de realidae aumentada (AR). Implementamos o framework Bootstrap para adicionar novos métodos e layouts pré-definidos.
 </p>
 <p align="center">
     <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
