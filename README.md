@@ -54,6 +54,6 @@ Entregável da Sprint 3 de *Advanced Programming & Mobile Dev*, professor:
 
 <p align="center">
     <a href="./LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/leolcm/inh-gpsar-web?style=for-the-badge" alt="MIT LICENSE">
+        <img src="https://img.shields.io/github/license/lcesadm/inh-gpsar-web?style=for-the-badge" alt="MIT LICENSE">
     </a>
 </p>
